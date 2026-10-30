@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+sentence-transformers
+chromadb
+networkx
+pandas
+numpy
+langchain-text-splitters
+scikit-learn

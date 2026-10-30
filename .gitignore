@@ -1,0 +1,34 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# API keys
+.env
+.env.*
+
+# ChromaDB
+data/chroma_db/
+
+# Uploaded PDFs
+data/papers/
+# Local settings
+.vscode/
+
+# Runtime data
+data/cache/
+data/chats/
+data/profiles/
+
+# Existing exclusions
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+data/chroma_db/
+data/papers/
